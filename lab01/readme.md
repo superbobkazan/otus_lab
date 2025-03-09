@@ -102,6 +102,10 @@ enable secret class
 banner motd #  
 Unauthorized access is strictly prohibited. #  
 ![](picture/18.PNG)  
+b.	Назначьте IP-адрес интерфейсу SVI на коммутаторе. Благодаря этому вы получите возможность удаленного управления коммутатором.  
+![](picture/19.PNG)  
+
+
 
 
 
