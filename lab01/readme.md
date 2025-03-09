@@ -86,7 +86,7 @@ FastEthernet0/6 is up, line protocol is up (connected)
 i.	Изучите флеш-память.  
 Выполните одну из следующих команд, чтобы изучить содержимое флеш-каталога.  
 Switch# show flash  
-![](picture/17.PNG) 
+![](picture/17.PNG)  
 Имя файла с операционной системой  
 2960-lanbasek9-mz.150-2.SE4.bin  
 
