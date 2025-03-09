@@ -101,7 +101,7 @@ service password-encryption
 enable secret class  
 banner motd #  
 Unauthorized access is strictly prohibited. #  
-![](picture/17.PNG)  
+![](picture/18.PNG)  
 
 
 
